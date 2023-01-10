@@ -1,16 +1,17 @@
 # NTT DATA Quality Assurance Beginner #3
+https://web.dio.me/track/everis-quality-assurance-beginner-3
 
- Intermediário
-肋 37 hrs
-2558 devs já se inscreveram
+ Intermediário<br>
+肋 37 hrs<br>
+
 Conquiste as melhores oportunidades na everis como profissional de QA com foco em automação de testes. Nessa jornada rumo a contratação, através do bootcamp NTT DATA Quality Assurance Beginner #3, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
 
-ATIVIDADES * MENTORIA * FÓRUM * DEVS * CERTIFICADO
+<b>ATIVIDADES * MENTORIA * FÓRUM * DEVS * CERTIFICADO</b><br>
 
- 11 cursos
- 1 desafio de projeto
- 1 desafio de código
- 5 lives
+ 11 cursos<br>
+ 1 desafio de projeto<br>
+ 1 desafio de código<br>
+ 5 lives<br>
 
 ## Conteúdo - 18 atividades
 * 01 - Curso: Boas-vindas ao Bootcamp NTT DATA Quality Assurance Beginner #3 -  Básico | 肋 1 hrs
