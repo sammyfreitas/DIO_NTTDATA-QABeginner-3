@@ -32,3 +32,8 @@ Conquiste as melhores oportunidades na everis como profissional de QA com foco e
 * 16 - Curso: Introdução a Behavior Driven Development (BDD) com Java -  Intermediário | 肋 2 hrs
 * 17 - Mentoria (Live) - Escrita Cucumber - Gherkin (BDD) - Behavior Driven Development - Kami Rodrigues/Everis - 06/08/2021 - 14:00 - 2 horas
 * 18 - Desafio de projeto: Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção -  Avançado | 肋 6 hrs
+
+
+🤝 Contribuindo Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.  
+
+<br>Se possível:  ⭐️ Star o projeto
