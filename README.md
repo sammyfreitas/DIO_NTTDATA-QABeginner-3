@@ -34,6 +34,7 @@ Conquiste as melhores oportunidades na everis como profissional de QA com foco e
 * 18 - Desafio de projeto: Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção -  Avançado | 肋 6 hrs
 
 
+
 🤝 Contribuindo Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar! 
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/) 
@@ -44,3 +45,6 @@ Conquiste as melhores oportunidades na everis como profissional de QA com foco e
 Emai
 
 <br>Se possível:  ⭐️ Star o projeto
+
+<img src=" ">
+
