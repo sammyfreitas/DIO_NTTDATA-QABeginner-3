@@ -42,9 +42,9 @@ Conquiste as melhores oportunidades na everis como profissional de QA com foco e
 - 📫 Minha caixa de entrada está sempre aberta. Se tiver alguma pergunta ou apenas dar um oizinho, será um prazer conversar com você! Bora conversar? **tonysdefreitas@gmail.com**
 
 - 📄 Encontra meu curriculo e experiências no [https://sammyfreitas.github.io/portfolioSite/curriculo.html](https://sammyfreitas.github.io/portfolioSite/curriculo.html)
-Emai
+
 
 <br>Se possível:  ⭐️ Star o projeto
 
-<img src=" ">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/2B1A6599.jpg">
 
