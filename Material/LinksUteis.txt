@@ -1,0 +1,5 @@
+Introdução à utilização do JUnit para o desenvolvimento de testes.
+	https://github.com/ruirodri/introJUnit
+
+Materiais de Apoio / Introdução a Behavior Driven Development (BDD) com Java
+	https://github.com/marcoslimaqa/bootcamp-bdd-everis-dio
